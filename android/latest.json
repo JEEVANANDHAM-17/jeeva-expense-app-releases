@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "1.3.0",
-  "apk": "jeeva-expense-app-1.3.0.apk",
-  "sha256": "71ff2ed15545fcbca7c547e77f6c7bc636ed73ff6cf7bfb9c8e575bf647e282b",
-  "notes": "New dashboard like the website: choose a month, quarter, financial year, year, or your own dates; see what changed from the period before, where your money went, and what stands out."
+  "versionCode": 7,
+  "versionName": "1.4.0",
+  "apk": "jeeva-expense-app-1.4.0.apk",
+  "sha256": "ad73e05f0291f8161e3e23d22a400af302a90c5ee5a303a280180624da2d6540",
+  "notes": "Categories now open like on the website: tap one to see its chart by month, quarter, financial year, year, or your own dates, its sub-categories, and its transactions with search and sorting. Tap any transaction to see everything about it, including the bank statement line it came from and its UPI reference number."
 }
