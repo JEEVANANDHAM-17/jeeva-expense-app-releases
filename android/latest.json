@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "1.4.0",
-  "apk": "jeeva-expense-app-1.4.0.apk",
-  "sha256": "ad73e05f0291f8161e3e23d22a400af302a90c5ee5a303a280180624da2d6540",
-  "notes": "Categories now open like on the website: tap one to see its chart by month, quarter, financial year, year, or your own dates, its sub-categories, and its transactions with search and sorting. Tap any transaction to see everything about it, including the bank statement line it came from and its UPI reference number."
+  "versionCode": 8,
+  "versionName": "1.5.0",
+  "apk": "jeeva-expense-app-1.5.0.apk",
+  "sha256": "26022371472bf8e7bca46064d0e508a08cb8ff11be6827651889f862fcb9adee",
+  "notes": "Pick sub-categories now, like on the website: when adding or editing an expense, or reviewing an imported statement, choose a category or one of its sub-categories (such as Food & Drinks · Pizza), with a search to find one quickly."
 }
