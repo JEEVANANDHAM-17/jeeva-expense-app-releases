@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "1.1.2",
-  "apk": "jeeva-expense-app-1.1.2.apk",
-  "sha256": "b66d0321eeea7470214da5fba83070f20b807622ee31a8e806bb306071e7cf4b",
-  "notes": "Fixes update checks, so future updates can appear in the app. Also includes the simpler sign-up from 1.1.1."
+  "versionCode": 5,
+  "versionName": "1.2.0",
+  "apk": "jeeva-expense-app-1.2.0.apk",
+  "sha256": "784c6e05951e1396ba420cdeafe8079d544f7e5b7681951e8586572021148a79",
+  "notes": "New Import tab: upload a bank or Google Pay statement (PDF, CSV, Excel) and review it into expenses, like on the website."
 }
