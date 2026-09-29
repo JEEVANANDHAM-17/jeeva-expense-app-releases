@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.1.1",
-  "apk": "jeeva-expense-app-1.1.1.apk",
-  "sha256": "29409c71a6c332035ebde8b58e9f34c78c912f9b59f464fe689e5b8536ce4613",
-  "notes": "Simpler sign-up: the confusing \"Claim existing server expenses\" option is gone, and the password hint is clearer."
+  "versionCode": 4,
+  "versionName": "1.1.2",
+  "apk": "jeeva-expense-app-1.1.2.apk",
+  "sha256": "b66d0321eeea7470214da5fba83070f20b807622ee31a8e806bb306071e7cf4b",
+  "notes": "Fixes update checks, so future updates can appear in the app. Also includes the simpler sign-up from 1.1.1."
 }
