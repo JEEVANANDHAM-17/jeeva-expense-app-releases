@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "1.6.0",
-  "apk": "jeeva-expense-app-1.6.0.apk",
-  "sha256": "a0285c1e9716ab4c879b72d2f5be01bda45edffe4f65f6d385ad43ab2fa01ce2",
-  "notes": "More from the website on the Import tab: try a made-up sample statement with one tap, set your city and web lookup, search Google for payments it does not recognise, and when you change one payment to a payee, choose whether to change all their waiting payments or only that one."
+  "versionCode": 10,
+  "versionName": "1.7.0",
+  "apk": "jeeva-expense-app-1.7.0.apk",
+  "sha256": "1d026b79d7997834ec5d86ee8c779c42333b43f3d33a73d42102f4af8fd299a0",
+  "notes": "Category icons like the website: every category and sub-category has its own icon on the expense list, category pages, the category picker, and the import review. The Add expense button now shrinks to a small + while you scroll, so it no longer covers your list."
 }
