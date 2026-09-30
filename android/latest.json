@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "1.5.0",
-  "apk": "jeeva-expense-app-1.5.0.apk",
-  "sha256": "26022371472bf8e7bca46064d0e508a08cb8ff11be6827651889f862fcb9adee",
-  "notes": "Pick sub-categories now, like on the website: when adding or editing an expense, or reviewing an imported statement, choose a category or one of its sub-categories (such as Food & Drinks · Pizza), with a search to find one quickly."
+  "versionCode": 9,
+  "versionName": "1.6.0",
+  "apk": "jeeva-expense-app-1.6.0.apk",
+  "sha256": "a0285c1e9716ab4c879b72d2f5be01bda45edffe4f65f6d385ad43ab2fa01ce2",
+  "notes": "More from the website on the Import tab: try a made-up sample statement with one tap, set your city and web lookup, search Google for payments it does not recognise, and when you change one payment to a payee, choose whether to change all their waiting payments or only that one."
 }
