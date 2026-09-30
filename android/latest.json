@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "1.7.0",
-  "apk": "jeeva-expense-app-1.7.0.apk",
-  "sha256": "1d026b79d7997834ec5d86ee8c779c42333b43f3d33a73d42102f4af8fd299a0",
-  "notes": "Category icons like the website: every category and sub-category has its own icon on the expense list, category pages, the category picker, and the import review. The Add expense button now shrinks to a small + while you scroll, so it no longer covers your list."
+  "versionCode": 11,
+  "versionName": "1.7.1",
+  "apk": "jeeva-expense-app-1.7.1.apk",
+  "sha256": "22ae275c57f7a8a5f8744c20aef5bcfbe2f843d960ced638c10768d6ada64778",
+  "notes": "The import review now folds like the website: Uncategorized payments start folded under their heading and Suggested ones open. Tap a heading to fold or open it."
 }
